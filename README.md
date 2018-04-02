@@ -15,3 +15,16 @@ time step; as in GA the evaluation span might take more or less time
 depending on the experimental scenario.
 • Fitness function: measurement of efficacy of a given candidate solution
 during the evaluation span
+
+Installation of Pyswarm in Python
+
+1.To install PySwarms, run this command in your terminal:
+
+$ pip install pyswarms
+
+2.to install the bleeding-edge version, clone this repo:
+
+$ git clone https://github.com/ljvmiranda921/pyswarms.git
+and then run
+
+$ python setup.py install
